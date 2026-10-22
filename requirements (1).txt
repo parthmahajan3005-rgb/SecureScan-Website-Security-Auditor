@@ -1,0 +1,17 @@
+# SecureScan - Python Dependencies
+#
+# Project: Automated Website Security Auditor
+# Purpose: Checks HTTPS usage and common HTTP security headers.
+#
+# Install all external dependencies with:
+#   pip install -r requirements.txt
+#
+# External libraries:
+requests>=2.31.0,<3.0.0
+
+# Note:
+# The following modules are part of Python's standard library,
+# so they do not need to be installed separately:
+# urllib.parse, ipaddress, socket, csv, datetime
+#
+# Recommended Python version: 3.10 or newer
